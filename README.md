@@ -31,7 +31,7 @@ The program prompts the user to choose a mode at the beginning. Depending on the
 
 To compile and run the program, simply navigate to the directory where the source code is located and enter the following commands in the terminal:
 
-    gcc main.c allmethods.c System.c -o main
+    gcc main.c System/System.c Data/Stack.c AllMethods/allmethods.c -o main
     ./main  or  main.exe
 
 
