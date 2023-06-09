@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "data.h": "c",
+        "allmethods.h": "c",
+        "system.h": "c",
+        "string.h": "c"
+    }
+}
